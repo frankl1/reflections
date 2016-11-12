@@ -16,3 +16,7 @@ Describe the differences between forks, clones, and branches. When would you use
 What is the benefit of having a copy of the last known state of the remote stored locally?
 
 	If the remote is having a problem introduce by may be a collaborator, a virus, it could be restore using the local save. Else where you can continuous your local work according to latest work on the remote as it's saved locally
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+	To collaborate withoud Git or GitHub, each collaborator will have his own copy on his computer. History will be so hard to manage and recover in case of problem will be difficult. Merging different copies will be too difficult. Sharing idear would not be easy at all
