@@ -20,3 +20,7 @@ What is the benefit of having a copy of the last known state of the remote store
 How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 
 	To collaborate withoud Git or GitHub, each collaborator will have his own copy on his computer. History will be so hard to manage and recover in case of problem will be difficult. Merging different copies will be too difficult. Sharing idear would not be easy at all
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+
+	I will use separate branch when I need to experiment withoud crashing the current version and also when I need to share my idear(Pull Request) withoud modifying the current version. 
